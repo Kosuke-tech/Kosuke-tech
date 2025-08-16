@@ -10,19 +10,19 @@ Web制作のフリーランスとして活動中の宮本 皐佑と申します�
 
 #### 北島工業さま
 
-URL
+URL：https://kitajima-kougyo.jp/
 
 **使用技術**: HTML, CSS, JavaScript, WordPress
 **制作期間**: 約〇〇日間
 **こだわりポイント**:
 - ユーザーにとって見やすいレイアウト
 - スマホでも快適に閲覧できるレスポンシブデザイン
-- 〇〇を意識して制作しました。
+- 
 
 
 #### TOPLINEさま
 
-URL
+URL：https://top-line4620.online/
 
 **使用技術**: HTML, CSS, JavaScript, WordPress
 **制作期間**: 約〇〇日間
@@ -34,7 +34,7 @@ URL
 
 #### M'Hさま
 
-URL
+URL：https://mh-2020.com/
 
 **使用技術**: HTML, CSS, JavaScript, WordPress
 **制作期間**: 約〇〇日間
@@ -53,6 +53,6 @@ URL
 ### 連絡先
 
 - **メール**: [メールアドレス]
-- **HP**: [HPのURL]
+- **HP**: https://miyamoto-design.jp/
 - **制作会社さま向けHP**: [HPのURL]
 
