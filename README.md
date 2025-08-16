@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Kosuke-tech/Kosuke-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### こんにちは！
 
-Here are some ideas to get you started:
+ご覧いただきありがとうございます。
+Web制作のフリーランスとして活動中の宮本 皐佑と申します。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 制作したWebサイトについて
+
+#### ポートフォリオ
+
+URL
+
+#### 北島工業さま
+
+URL
+
+
+#### TOPLINEさま
+
+URL
+
+
+#### M'Hさま
+
+URL
+
+**使用技術**: HTML, CSS, JavaScript, WordPress
+
+**制作期間**: 約〇〇日間
+
+**こだわりポイント**:
+- ユーザーにとって見やすいレイアウト
+- スマホでも快適に閲覧できるレスポンシブデザイン
+- 〇〇を意識して制作しました。
+
+---
+
+### スキル
+
+- **言語**: HTML, CSS, JavaScript, PHP
+- **ツール**: figma, WordPress, VS Code
+
+### 連絡先
+
+- **メール**: [メールアドレス]
+- **ポートフォリオサイト**: [HPのURL]
